@@ -9,4 +9,68 @@
 <body>
     
 </body>
+
+  <header>
+    <div class="container">
+      <h1>Flix Br</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Início</a></li>
+          <li><a href="#">Gêneros</a></li>
+          <li><a href="#">Lançamentos</a></li>
+          <li><a href="#">Favoritos</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="search-container">
+    <input type="text" class="search-box" id="search" placeholder="Digite sua pesquisa...">
+    <button class="search-button" onclick="search()">Pesquisar</button>
+</div>
+
+<h2>Login</h2>
+<form action="processar_email" method="POST">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <button type="submit">Cadastrar</button>
+</form>
+
+  <main>
+    <section class="catalogo">
+      <h2>Filmes em Destaque</h2>
+      <div class="filmes">
+        <article class="filme">
+          <img src="filme1.jpg" alt="Filme 1">
+          <h2> Tropa de Elite </h2>
+          <p>Ação,Policial</p> <br>
+          <h4> Nascimento e sua equipe resgatam Neto e Matias, dois aspirantes a oficiais da PM. Ansiosos para entrar em ação e impressionados com a eficiência de seus salvadores, os dois se candidatam ao curso de formação da Tropa de Elite.</h4>
+        </article>
+        <article class="filme">
+          <img src="filme2.jpg" alt="Filme 2">
+          <h2> Os Farofeiros </h2>
+          <p>Comédia</p> <br>
+          <h4> Quatro colegas de trabalho se programam para curtir o feriado prolongado em uma casa de praia. Lá, eles descobrem que se meteram em uma tremenda roubada.</h4>
+        </article>
+        <article class="filme">
+          <img src="filme3.jpg" alt="Filme 3">
+          <h2>Ainda Estou Aqui</h2>
+          <p> Drama,Obra de Época</p> <br>
+          <h4> Um dia, Rubens Paiva é levado por militares à paisana e desaparece. Eunice - cuja busca pela verdade sobre o destino de seu marido se estenderia por décadas - é obrigada a se reinventar e traçar um novo futuro para si e seus filhos.</h4>
+
+        </article>
+       
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Flix Br. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+</body>
+
+
 </html>

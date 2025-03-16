@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Joao Paulo Diniz Junior
+- Matricula: 881419
+- Proposta de projeto escolhida: Catalogo de Filmes
+- Breve descrição sobre seu projeto: Este projeto é sobre um site com o catalogo de filmes apenas Brasileiros.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![esboço](wireframe.jpg.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![home-page](homepage.jpg.png)
