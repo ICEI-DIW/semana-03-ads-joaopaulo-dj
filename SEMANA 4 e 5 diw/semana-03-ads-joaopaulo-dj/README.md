@@ -16,9 +16,12 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do esboço criada
 
-![alt text](<Semana 4 e 5.JPG>)
+![wireframe jpg](https://github.com/user-attachments/assets/bcbe96f4-274a-471a-b7c3-dfc4e1d0cee8)
+
 
 
 ## Print da home-page criada
 
-![home-page](homepage.jpg.png)
+![Semana 4 e 5](https://github.com/user-attachments/assets/8bf4bae2-7e08-47c5-aeb0-484379a49f2b)
+
+
