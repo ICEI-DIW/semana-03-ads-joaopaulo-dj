@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Filmes Brasileiros</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+  <header class="text-center py-4 bg-success text-white">
+    <h1>🎬 Flix 🇧🇷</h1>
+    <input id="searchInput" type="text" placeholder="Pesquisar filme..." class="form-control w-50 mx-auto my-2">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success justify-content-center">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="generosDropdown" role="button" data-bs-toggle="dropdown">Gêneros</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="acao.html">Ação</a></li>
+            <li><a class="dropdown-item" href="comedia.html">Comédia</a></li>
+            <li><a class="dropdown-item" href="drama.html">Drama</a></li>
+            <li><a class="dropdown-item" href="romance.html">Romance</a></li>
+            <li><a class="dropdown-item" href="aventura.html">Aventura</a></li>
+            <li><a class="dropdown-item" href="suspense.html">Suspense</a></li>
+            <li><a class="dropdown-item" href="terror.html">Terror</a></li>
+            <li><a class="dropdown-item" href="documentario.html">Documentário</a></li>
+            <li><a class="dropdown-item" href="infantil.html">Infantil</a></li>
+            <li><a class="dropdown-item" href="fantasia.html">Fantasia</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container my-4">
+    <section id="home" class="text-center">
+      <h2>Bem-vindo ao melhor catálogo de filmes nacionais! 🇧🇷</h2>
+      <p>Explore diversos gêneros de filmes brasileiros e adicione seus favoritos!</p>
+    </section>
+
+    <section id="filmes" class="row mt-4"></section>
+
+    <section id="favoritos" class="mt-5">
+      <h3>🎉 Seus Filmes Favoritos</h3>
+      <div id="listaFavoritos" class="row"></div>
+    </section>
+  </main>
+
+  <footer class="text-center py-3 bg-success text-white">
+    <p>&copy; 2025 Flix 🇧🇷</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

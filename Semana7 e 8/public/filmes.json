@@ -1,0 +1,333 @@
+[
+  {
+    "titulo": "Cidade de Deus",
+    "genero": "acao"
+  },
+  {
+    "titulo": "Tropa de Elite",
+    "genero": "acao"
+  },
+  {
+    "titulo": "Alemão",
+    "genero": "acao"
+  },
+  {
+    "titulo": "Traição",
+    "genero": "acao"
+  },
+  {
+    "titulo": "Carga Maxima",
+    "genero": "acao"
+  },
+  {
+    "titulo": "O Doutrinador",
+    "genero": "acao"
+  },
+  {
+    "titulo": "Operações Especiais",
+    "genero": "acao"
+  },
+  {
+    "titulo": "O Matador",
+    "genero": "acao"
+  },
+  {
+    "titulo": "Intervenção: é Proibido Morrer",
+    "genero": "acao"
+  },
+  {
+    "titulo": "O Auto da Compadecida",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "Os Farofeiros",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "Minha Mãe É Uma Peça",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "O Palhaço",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "Bingo: O Rei das Manhãs",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "O Homem do Futuro",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "Cabras da Peste",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "Minha Vida em Marte",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "Um Suburbano Sortudo",
+    "genero": "comedia"
+  },
+  {
+    "titulo": "Central do Brasil",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Olga",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Chico Xavier",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Carandiru: O Filme",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Ainda Estou Aqui",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Sonhos Roubados",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Casa Grande",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Nosso Lar",
+    "genero": "drama"
+  },
+  {
+    "titulo": "Antes Que Eu Me Esqueça",
+    "genero": "drama"
+  },
+  {
+    "titulo": "2 Filhos de Francisco",
+    "genero": "romance"
+  },
+  {
+    "titulo": "O Tempo e o Vento",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Além da Paixão",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Eduardo e Mônica",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Califórnia",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Amarração do amor",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Ricos de Amor",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Amor sem Medida",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Apaixonada",
+    "genero": "romance"
+  },
+  {
+    "titulo": "Tainá",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "Deus É Brasileiro",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "Capitães da Areia",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "Ilhados",
+    "genero": "aventura"
+   
+  },
+  {
+    "titulo": "Arca de Noé",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "Xingu",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "2 Coelhos",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "Reza a Lenda",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "Os Aventureiros - A Origem",
+    "genero": "aventura"
+  },
+  {
+    "titulo": "O Lobo Atrás da Porta",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "Desaparecidos",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "Macabro",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "O Animal Cordial",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "Última Parada 174",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "A Jaula",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "Maníaco do Parque",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "Ninguem É de Ninguem",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "Ângela",
+    "genero": "suspense"
+  },
+  {
+    "titulo": "Zé do Caixão",
+    "genero": "terror"
+  },
+  {
+    "titulo": "A Herança",
+    "genero": "terror"
+  },
+  {
+    "titulo": "Abraço de Mãe",
+    "genero": "terror"
+    
+  },
+  {
+    "titulo": "Através da Sombra",
+    "genero": "terror"
+  },
+  {
+    "titulo": "Mar Negro",
+    "genero": "terror"
+  },
+  {
+    "titulo": "O Segredo de Davi",
+    "genero": "terror"
+  },
+  {
+    "titulo": "Isolados",
+    "genero": "terror"
+  },
+  {
+    "titulo": "O Juízo",
+    "genero": "terror"
+  },
+  {
+    "titulo": "Quando Eu Era Vivo",
+    "genero": "terror"
+  },
+  {
+    "titulo": "Democracia em Vertigem",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "O Dia Que Durou 21 Anos",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "Elena",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "Santo Forte",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "Jogo de Cena",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "Cidade de Deus - 10 Anos Depois",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "Irmãos por Escolha",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "Getúlio",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "Chorão: Marginal Alado",
+    "genero": "documentario"
+  },
+  {
+    "titulo": "O Menino e o Mundo",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "Carrossel: O Filme",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "O Menino no Espelho",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "Peixonauta: O Filme",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "As Aventuras do Avião Vermelho",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "Eu e meu Guarda-Chuva",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "Meu Pé de Laranja Lima",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "O Segredo dos Diamantes",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "Corda Bamba, a Historia de Uma Menina Equilibrista",
+    "genero": "infantil"
+  },
+  {
+    "titulo": "Turma da Mônica: Laços",
+    "genero": "fantasia"
+  }
+
+]

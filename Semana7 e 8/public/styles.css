@@ -1,0 +1,40 @@
+body {
+    background-color: #e0f7df;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1, h2, h3 {
+    color: #006400;
+  }
+  
+  nav a.nav-link,
+  nav a.dropdown-item {
+    color: rgb(0, 68, 255) !important;
+  }
+  
+  section {
+    padding: 20px 0;
+  }
+  
+  .card {
+    background-color: #fffacd;
+    border: 2px solid #00a859;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px #00a859;
+  }
+  
+  .card-title {
+    color: #006400;
+  }
+  
+  .btn-favorito {
+    background-color: #00a859;
+    color: white;
+    border: none;
+  }
+  
+  .btn-favorito:hover {
+    background-color: #007b4f;
+  }
+  
